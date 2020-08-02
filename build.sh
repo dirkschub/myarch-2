@@ -297,7 +297,6 @@ mkdir -p "${work_dir}"
 run_once make_pacman_conf
 run_once make_custom_airootfs
 run_once make_packages
-run_once make_setup_mkinitcpio
 run_once make_customize_airootfs
 run_once make_boot
 run_once make_boot_extra
