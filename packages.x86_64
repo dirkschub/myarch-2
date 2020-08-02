@@ -102,6 +102,16 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+#xserver
+xorg
+xorg-server
+xorg-xinit
+xf86-video-intel
+xf86-video-ati
+xf86-video-amdgpu
+xf86-video-nouveau
+xf86-video-vmware
+xf86-video-qxl
 #xfce4 group content
 exo
 garcon
@@ -131,4 +141,3 @@ ttf-ubuntu-font-family
 
 firefox
 firefox-i18n-de
-
